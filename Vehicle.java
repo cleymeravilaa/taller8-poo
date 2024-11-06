@@ -1,6 +1,6 @@
 public class Vehicle {
-    private String brand;
-    private double maxSpeed;
+    protected String brand;
+    protected double maxSpeed;
 
     public Vehicle(String brand, double maxSpeed) {
         this.brand = brand;
