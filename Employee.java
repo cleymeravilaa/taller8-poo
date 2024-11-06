@@ -1,6 +1,6 @@
 public class Employee {
-    private String name;
-    private double salary;
+    protected String name;
+    protected double salary;
 
     public Employee(String name, double salary) {
         this.name = name;
