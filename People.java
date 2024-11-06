@@ -1,6 +1,6 @@
 public class People {
-    private String name;
-    private int age;
+    protected String name;
+    protected int age;
 
     public People(String name, int age) {
         this.name = name;
